@@ -1,0 +1,6 @@
+c:\users\diego biazin\documents\visual studio 2013\Projects\WebApplication.View\WebApplication.View\bin\WebApplication.View.dll.config
+c:\users\diego biazin\documents\visual studio 2013\Projects\WebApplication.View\WebApplication.View\bin\WebApplication.View.dll
+c:\users\diego biazin\documents\visual studio 2013\Projects\WebApplication.View\WebApplication.View\bin\WebApplication.View.pdb
+c:\users\diego biazin\documents\visual studio 2013\Projects\WebApplication.View\WebApplication.View\obj\Debug\WebApplication.View.csprojResolveAssemblyReference.cache
+c:\users\diego biazin\documents\visual studio 2013\Projects\WebApplication.View\WebApplication.View\obj\Debug\WebApplication.View.dll
+c:\users\diego biazin\documents\visual studio 2013\Projects\WebApplication.View\WebApplication.View\obj\Debug\WebApplication.View.pdb
